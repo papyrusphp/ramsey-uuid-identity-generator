@@ -1,6 +1,6 @@
 {
     "name": "papyrus/ramsey-uuid-identity-generator",
-    "description": "Identity generator for papyrus/event-store based on ramsey/uuid",
+    "description": "Implementation of papyrus/identity-generator, based on ramsey/uuid",
     "license": "MIT",
     "type": "library",
     "keywords": [
