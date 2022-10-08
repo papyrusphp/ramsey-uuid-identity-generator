@@ -33,9 +33,6 @@
         "phpunit/phpunit": "^9.5",
         "robmorgan/phinx": "^0.12.13"
     },
-    "provide": {
-        "papyrus/identity-generator": "0.1.0"
-    },
     "autoload": {
         "psr-4": {
             "Papyrus\\RamseyUuidIdentityGenerator\\": "src/"
