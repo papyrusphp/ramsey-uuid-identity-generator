@@ -31,7 +31,7 @@
         "phpro/grumphp-shim": "^1.13",
         "phpstan/phpstan": "^1.8",
         "phpunit/phpunit": "^9.5",
-        "robmorgan/phinx": "^0.12.13",
+        "robmorgan/phinx": "^0.12.13 || ^0.13.0",
         "scrutinizer/ocular": "^1.9"
     },
     "autoload": {
