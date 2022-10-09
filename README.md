@@ -34,6 +34,13 @@ return [
 A Symfony YAML-file definition:
 ```yaml
 services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+
+  # Other definitions
+  # ...
+  
   Papyrus\IdentityGenerator\IdentityGenerator:
-        class: Papyrus\RamseyUuidIdentityGenerator\RamseyUuidIdentityGenerator
+    class: Papyrus\RamseyUuidIdentityGenerator\RamseyUuidIdentityGenerator
 ```
