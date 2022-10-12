@@ -11,7 +11,7 @@ Implementation of [papyrus/identity-generator](https://github.com/papyrusphp/ide
 ### Installation
 Install via composer:
 ```bash
-$ composer install papyrus/ramsey-uuid-identity-generator
+composer require papyrus/ramsey-uuid-identity-generator
 ```
 
 ## Configuration
