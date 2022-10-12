@@ -33,6 +33,9 @@
         "phpunit/phpunit": "^9.5",
         "scrutinizer/ocular": "^1.9"
     },
+    "provide": {
+        "papyrus/identity-generator-implementation": "0.1"
+    },
     "autoload": {
         "psr-4": {
             "Papyrus\\RamseyUuidIdentityGenerator\\": "src/"
